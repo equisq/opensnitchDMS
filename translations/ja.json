@@ -1,0 +1,341 @@
+{
+  "1 hour": {
+    "1 hour": "1 時間"
+  },
+  "12 hours": {
+    "12 hours": "12 時間"
+  },
+  "15 minutes": {
+    "15 minutes": "15 分"
+  },
+  "30 minutes": {
+    "30 minutes": "30 分"
+  },
+  "30 seconds": {
+    "30 seconds": "30 秒"
+  },
+  "5 minutes": {
+    "5 minutes": "5 分"
+  },
+  "A disabled rule is kept but ignored.": {
+    "A disabled rule is kept but ignored.": "無効なルールは保持されますが適用されません。"
+  },
+  "Action": {
+    "Action": "動作"
+  },
+  "Advanced": {
+    "Advanced": "詳細"
+  },
+  "All": {
+    "All": "すべて"
+  },
+  "Allow": {
+    "Allow": "許可"
+  },
+  "Allowed": {
+    "Allowed": "許可"
+  },
+  "Also match, by default": {
+    "Also match, by default": "既定で追加照合"
+  },
+  "Answer after": {
+    "Answer after": "応答まで"
+  },
+  "Apply to connections": {
+    "Apply to connections": "接続に適用"
+  },
+  "Ask on new connections": {
+    "Ask on new connections": "新しい接続で確認"
+  },
+  "Ask when an application connects": {
+    "Ask when an application connects": "アプリの接続時に確認"
+  },
+  "Authorization prompt": {
+    "Authorization prompt": "許可の確認"
+  },
+  "Back to latest": {
+    "Back to latest": "最新に戻る"
+  },
+  "Backend not running": {
+    "Backend not running": "バックエンドが停止中"
+  },
+  "Blocked": {
+    "Blocked": "ブロック"
+  },
+  "Cancel": {
+    "Cancel": "キャンセル"
+  },
+  "Checksum": {
+    "Checksum": "チェックサム"
+  },
+  "Checksum mismatch": {
+    "Checksum mismatch": "チェックサム不一致"
+  },
+  "Checksum updated for %1": {
+    "Checksum updated for %1": "%1 のチェックサムを更新しました"
+  },
+  "Clear all": {
+    "Clear all": "すべて消去"
+  },
+  "Command line": {
+    "Command line": "コマンドライン"
+  },
+  "Comparison": {
+    "Comparison": "比較"
+  },
+  "Connections": {
+    "Connections": "接続"
+  },
+  "Connections this rule matches stay out of the connection list.": {
+    "Connections this rule matches stay out of the connection list.": "このルールに一致する接続は接続一覧に表示されません。"
+  },
+  "DNS answers": {
+    "DNS answers": "DNS 応答"
+  },
+  "Daemon (opensnitchd)": {
+    "Daemon (opensnitchd)": "デーモン (opensnitchd)"
+  },
+  "Daemon not connected": {
+    "Daemon not connected": "デーモン未接続"
+  },
+  "Default duration": {
+    "Default duration": "既定の期間"
+  },
+  "Default policy": {
+    "Default policy": "既定のポリシー"
+  },
+  "Default target": {
+    "Default target": "既定の対象"
+  },
+  "Deny": {
+    "Deny": "拒否"
+  },
+  "Description": {
+    "Description": "説明"
+  },
+  "Dest. IP": {
+    "Dest. IP": "宛先 IP"
+  },
+  "Destination": {
+    "Destination": "宛先"
+  },
+  "Destination IP": {
+    "Destination IP": "宛先 IP"
+  },
+  "Destination IP matches": {
+    "Destination IP matches": "宛先 IP の照合"
+  },
+  "Do not log matches": {
+    "Do not log matches": "一致を記録しない"
+  },
+  "Drop": {
+    "Drop": "破棄"
+  },
+  "Duration": {
+    "Duration": "期間"
+  },
+  "Edit rule": {
+    "Edit rule": "ルールを編集"
+  },
+  "Enable firewall": {
+    "Enable firewall": "ファイアウォールを有効化"
+  },
+  "Enabled": {
+    "Enabled": "有効"
+  },
+  "Executable": {
+    "Executable": "実行ファイル"
+  },
+  "Expected %1 · Current %2": {
+    "Expected %1 · Current %2": "期待値 %1 · 現在値 %2"
+  },
+  "Field": {
+    "Field": "項目"
+  },
+  "Firewall": {
+    "Firewall": "ファイアウォール"
+  },
+  "Firewall backend": {
+    "Firewall backend": "ファイアウォールバックエンド"
+  },
+  "For": {
+    "For": "期間"
+  },
+  "Incoming connections": {
+    "Incoming connections": "受信接続"
+  },
+  "Intercept connections": {
+    "Intercept connections": "接続を監視"
+  },
+  "Intercept unknown processes": {
+    "Intercept unknown processes": "不明なプロセスを監視"
+  },
+  "Interception is off": {
+    "Interception is off": "監視はオフです"
+  },
+  "Launched from": {
+    "Launched from": "起動元"
+  },
+  "Log level": {
+    "Log level": "ログレベル"
+  },
+  "Lost the connection to the OpenSnitch backend": {
+    "Lost the connection to the OpenSnitch backend": "OpenSnitch バックエンドとの接続が切断されました。"
+  },
+  "Match": {
+    "Match": "照合"
+  },
+  "Name": {
+    "Name": "名前"
+  },
+  "New rule": {
+    "New rule": "新しいルール"
+  },
+  "No connections yet": {
+    "No connections yet": "接続はまだありません"
+  },
+  "Nothing yet": {
+    "Nothing yet": "まだありません"
+  },
+  "Open OpenSnitch": {
+    "Open OpenSnitch": "OpenSnitch を開く"
+  },
+  "Outgoing connection": {
+    "Outgoing connection": "送信接続"
+  },
+  "Outgoing connections": {
+    "Outgoing connections": "送信接続"
+  },
+  "Overview": {
+    "Overview": "概要"
+  },
+  "Overview statistics": {
+    "Overview statistics": "概要の統計"
+  },
+  "Port": {
+    "Port": "ポート"
+  },
+  "Priority rule": {
+    "Priority rule": "優先ルール"
+  },
+  "Process monitor": {
+    "Process monitor": "プロセス監視方式"
+  },
+  "Protected": {
+    "Protected": "保護中"
+  },
+  "Protecting this computer": {
+    "Protecting this computer": "このコンピューターを保護中"
+  },
+  "Protection": {
+    "Protection": "保護"
+  },
+  "Queue bypass": {
+    "Queue bypass": "キューをバイパス"
+  },
+  "Reject": {
+    "Reject": "却下"
+  },
+  "Reset overview stats": {
+    "Reset overview stats": "概要の統計をリセット"
+  },
+  "Reset stats": {
+    "Reset stats": "統計をリセット"
+  },
+  "Rule hits": {
+    "Rule hits": "ルール一致数"
+  },
+  "Rules": {
+    "Rules": "ルール"
+  },
+  "Save": {
+    "Save": "保存"
+  },
+  "Search": {
+    "Search": "検索"
+  },
+  "Search rules": {
+    "Search rules": "ルールを検索"
+  },
+  "Settings": {
+    "Settings": "設定"
+  },
+  "Show advanced options": {
+    "Show advanced options": "詳細オプションを表示"
+  },
+  "Source": {
+    "Source": "送信元"
+  },
+  "Starting…": {
+    "Starting…": "起動中…"
+  },
+  "System firewall": {
+    "System firewall": "システムファイアウォール"
+  },
+  "Top addresses": {
+    "Top addresses": "上位アドレス"
+  },
+  "Top applications": {
+    "Top applications": "上位アプリ"
+  },
+  "Top hosts": {
+    "Top hosts": "上位ホスト"
+  },
+  "Top ports": {
+    "Top ports": "上位ポート"
+  },
+  "Update rule": {
+    "Update rule": "ルールを更新"
+  },
+  "User": {
+    "User": "ユーザー"
+  },
+  "User ID": {
+    "User ID": "ユーザー ID"
+  },
+  "Value": {
+    "Value": "値"
+  },
+  "Verify checksums in rules": {
+    "Verify checksums in rules": "ルールのチェックサムを検証"
+  },
+  "When nobody answers": {
+    "When nobody answers": "応答がない場合"
+  },
+  "Working dir": {
+    "Working dir": "作業ディレクトリ"
+  },
+  "equals": {
+    "equals": "等しい"
+  },
+  "forever": {
+    "forever": "無期限"
+  },
+  "from %1": {
+    "from %1": "%1 から"
+  },
+  "from user %1": {
+    "from user %1": "ユーザー %1 から"
+  },
+  "in network (CIDR)": {
+    "in network (CIDR)": "ネットワーク内 (CIDR)"
+  },
+  "no data yet": {
+    "no data yet": "データはありません"
+  },
+  "once": {
+    "once": "1 回"
+  },
+  "regular expression": {
+    "regular expression": "正規表現"
+  },
+  "to %1": {
+    "to %1": "%1 へ"
+  },
+  "to port %1": {
+    "to port %1": "ポート %1 へ"
+  },
+  "until reboot": {
+    "until reboot": "再起動まで"
+  }
+}

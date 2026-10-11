@@ -1,0 +1,341 @@
+{
+  "1 hour": {
+    "1 hour": "1 小时"
+  },
+  "12 hours": {
+    "12 hours": "12 小时"
+  },
+  "15 minutes": {
+    "15 minutes": "15 分钟"
+  },
+  "30 minutes": {
+    "30 minutes": "30 分钟"
+  },
+  "30 seconds": {
+    "30 seconds": "30 秒"
+  },
+  "5 minutes": {
+    "5 minutes": "5 分钟"
+  },
+  "A disabled rule is kept but ignored.": {
+    "A disabled rule is kept but ignored.": "停用的規則會保留但不會套用。"
+  },
+  "Action": {
+    "Action": "動作"
+  },
+  "Advanced": {
+    "Advanced": "進階"
+  },
+  "All": {
+    "All": "全部"
+  },
+  "Allow": {
+    "Allow": "允許"
+  },
+  "Allowed": {
+    "Allowed": "已允許"
+  },
+  "Also match, by default": {
+    "Also match, by default": "預設也比對"
+  },
+  "Answer after": {
+    "Answer after": "等待後自動回應"
+  },
+  "Apply to connections": {
+    "Apply to connections": "套用至連線"
+  },
+  "Ask on new connections": {
+    "Ask on new connections": "新連線時詢問"
+  },
+  "Ask when an application connects": {
+    "Ask when an application connects": "應用程式連線時詢問"
+  },
+  "Authorization prompt": {
+    "Authorization prompt": "授權提示"
+  },
+  "Back to latest": {
+    "Back to latest": "返回最新項目"
+  },
+  "Backend not running": {
+    "Backend not running": "後端未執行"
+  },
+  "Blocked": {
+    "Blocked": "已封鎖"
+  },
+  "Cancel": {
+    "Cancel": "取消"
+  },
+  "Checksum": {
+    "Checksum": "檢查碼"
+  },
+  "Checksum mismatch": {
+    "Checksum mismatch": "檢查碼不符"
+  },
+  "Checksum updated for %1": {
+    "Checksum updated for %1": "已更新 %1 的檢查碼"
+  },
+  "Clear all": {
+    "Clear all": "全部清除"
+  },
+  "Command line": {
+    "Command line": "命令列"
+  },
+  "Comparison": {
+    "Comparison": "比較方式"
+  },
+  "Connections": {
+    "Connections": "連線"
+  },
+  "Connections this rule matches stay out of the connection list.": {
+    "Connections this rule matches stay out of the connection list.": "符合此規則的連線不會顯示在連線清單中。"
+  },
+  "DNS answers": {
+    "DNS answers": "DNS 回應"
+  },
+  "Daemon (opensnitchd)": {
+    "Daemon (opensnitchd)": "背景程式 (opensnitchd)"
+  },
+  "Daemon not connected": {
+    "Daemon not connected": "背景程式未連線"
+  },
+  "Default duration": {
+    "Default duration": "預設期限"
+  },
+  "Default policy": {
+    "Default policy": "預設政策"
+  },
+  "Default target": {
+    "Default target": "預設目標"
+  },
+  "Deny": {
+    "Deny": "拒絕"
+  },
+  "Description": {
+    "Description": "描述"
+  },
+  "Dest. IP": {
+    "Dest. IP": "目的 IP"
+  },
+  "Destination": {
+    "Destination": "目的地"
+  },
+  "Destination IP": {
+    "Destination IP": "目的 IP"
+  },
+  "Destination IP matches": {
+    "Destination IP matches": "目的 IP 比對"
+  },
+  "Do not log matches": {
+    "Do not log matches": "不要記錄比對結果"
+  },
+  "Drop": {
+    "Drop": "丟棄"
+  },
+  "Duration": {
+    "Duration": "期限"
+  },
+  "Edit rule": {
+    "Edit rule": "編輯規則"
+  },
+  "Enable firewall": {
+    "Enable firewall": "啟用防火牆"
+  },
+  "Enabled": {
+    "Enabled": "已啟用"
+  },
+  "Executable": {
+    "Executable": "執行檔"
+  },
+  "Expected %1 · Current %2": {
+    "Expected %1 · Current %2": "預期 %1 · 目前 %2"
+  },
+  "Field": {
+    "Field": "欄位"
+  },
+  "Firewall": {
+    "Firewall": "防火牆"
+  },
+  "Firewall backend": {
+    "Firewall backend": "防火牆後端"
+  },
+  "For": {
+    "For": "期限"
+  },
+  "Incoming connections": {
+    "Incoming connections": "傳入連線"
+  },
+  "Intercept connections": {
+    "Intercept connections": "攔截連線"
+  },
+  "Intercept unknown processes": {
+    "Intercept unknown processes": "攔截未知程序"
+  },
+  "Interception is off": {
+    "Interception is off": "攔截功能已關閉"
+  },
+  "Launched from": {
+    "Launched from": "啟動位置"
+  },
+  "Log level": {
+    "Log level": "記錄層級"
+  },
+  "Lost the connection to the OpenSnitch backend": {
+    "Lost the connection to the OpenSnitch backend": "與 OpenSnitch 後端的連線已中斷。"
+  },
+  "Match": {
+    "Match": "比對"
+  },
+  "Name": {
+    "Name": "名稱"
+  },
+  "New rule": {
+    "New rule": "新增規則"
+  },
+  "No connections yet": {
+    "No connections yet": "目前沒有連線"
+  },
+  "Nothing yet": {
+    "Nothing yet": "目前沒有資料"
+  },
+  "Open OpenSnitch": {
+    "Open OpenSnitch": "開啟 OpenSnitch"
+  },
+  "Outgoing connection": {
+    "Outgoing connection": "傳出連線"
+  },
+  "Outgoing connections": {
+    "Outgoing connections": "傳出連線"
+  },
+  "Overview": {
+    "Overview": "總覽"
+  },
+  "Overview statistics": {
+    "Overview statistics": "總覽統計資料"
+  },
+  "Port": {
+    "Port": "連接埠"
+  },
+  "Priority rule": {
+    "Priority rule": "優先規則"
+  },
+  "Process monitor": {
+    "Process monitor": "程序監視器"
+  },
+  "Protected": {
+    "Protected": "受到保護"
+  },
+  "Protecting this computer": {
+    "Protecting this computer": "正在保護這台電腦"
+  },
+  "Protection": {
+    "Protection": "保護"
+  },
+  "Queue bypass": {
+    "Queue bypass": "佇列略過"
+  },
+  "Reject": {
+    "Reject": "拒絕連線"
+  },
+  "Reset overview stats": {
+    "Reset overview stats": "重設總覽統計資料"
+  },
+  "Reset stats": {
+    "Reset stats": "重設統計資料"
+  },
+  "Rule hits": {
+    "Rule hits": "規則命中數"
+  },
+  "Rules": {
+    "Rules": "規則"
+  },
+  "Save": {
+    "Save": "儲存"
+  },
+  "Search": {
+    "Search": "搜尋"
+  },
+  "Search rules": {
+    "Search rules": "搜尋規則"
+  },
+  "Settings": {
+    "Settings": "設定"
+  },
+  "Show advanced options": {
+    "Show advanced options": "顯示進階選項"
+  },
+  "Source": {
+    "Source": "來源"
+  },
+  "Starting…": {
+    "Starting…": "正在啟動…"
+  },
+  "System firewall": {
+    "System firewall": "系統防火牆"
+  },
+  "Top addresses": {
+    "Top addresses": "熱門位址"
+  },
+  "Top applications": {
+    "Top applications": "熱門應用程式"
+  },
+  "Top hosts": {
+    "Top hosts": "熱門主機"
+  },
+  "Top ports": {
+    "Top ports": "熱門連接埠"
+  },
+  "Update rule": {
+    "Update rule": "更新規則"
+  },
+  "User": {
+    "User": "使用者"
+  },
+  "User ID": {
+    "User ID": "使用者 ID"
+  },
+  "Value": {
+    "Value": "值"
+  },
+  "Verify checksums in rules": {
+    "Verify checksums in rules": "驗證規則中的檢查碼"
+  },
+  "When nobody answers": {
+    "When nobody answers": "無人回應時"
+  },
+  "Working dir": {
+    "Working dir": "工作目錄"
+  },
+  "equals": {
+    "equals": "等於"
+  },
+  "forever": {
+    "forever": "永久"
+  },
+  "from %1": {
+    "from %1": "来自 %1"
+  },
+  "from user %1": {
+    "from user %1": "来自用户 %1"
+  },
+  "in network (CIDR)": {
+    "in network (CIDR)": "位於網路 (CIDR)"
+  },
+  "no data yet": {
+    "no data yet": "目前沒有資料"
+  },
+  "once": {
+    "once": "一次"
+  },
+  "regular expression": {
+    "regular expression": "正規表示式"
+  },
+  "to %1": {
+    "to %1": "到 %1"
+  },
+  "to port %1": {
+    "to port %1": "到端口 %1"
+  },
+  "until reboot": {
+    "until reboot": "直到重新啟動"
+  }
+}

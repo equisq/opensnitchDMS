@@ -1,0 +1,341 @@
+{
+  "1 hour": {
+    "1 hour": "1 uur"
+  },
+  "12 hours": {
+    "12 hours": "12 uur"
+  },
+  "15 minutes": {
+    "15 minutes": "15 minuten"
+  },
+  "30 minutes": {
+    "30 minutes": "30 minuten"
+  },
+  "30 seconds": {
+    "30 seconds": "30 seconden"
+  },
+  "5 minutes": {
+    "5 minutes": "5 minuten"
+  },
+  "A disabled rule is kept but ignored.": {
+    "A disabled rule is kept but ignored.": "Een uitgeschakelde regel blijft bewaard maar wordt genegeerd."
+  },
+  "Action": {
+    "Action": "Actie"
+  },
+  "Advanced": {
+    "Advanced": "Geavanceerd"
+  },
+  "All": {
+    "All": "Alle"
+  },
+  "Allow": {
+    "Allow": "Toestaan"
+  },
+  "Allowed": {
+    "Allowed": "Toegestaan"
+  },
+  "Also match, by default": {
+    "Also match, by default": "Standaard ook overeen laten komen"
+  },
+  "Answer after": {
+    "Answer after": "Antwoorden na"
+  },
+  "Apply to connections": {
+    "Apply to connections": "Toepassen op verbindingen"
+  },
+  "Ask on new connections": {
+    "Ask on new connections": "Vragen bij nieuwe verbindingen"
+  },
+  "Ask when an application connects": {
+    "Ask when an application connects": "Vragen wanneer een toepassing verbinding maakt"
+  },
+  "Authorization prompt": {
+    "Authorization prompt": "Toestemmingsverzoek"
+  },
+  "Back to latest": {
+    "Back to latest": "Terug naar recentste"
+  },
+  "Backend not running": {
+    "Backend not running": "Backend is niet actief"
+  },
+  "Blocked": {
+    "Blocked": "Geblokkeerd"
+  },
+  "Cancel": {
+    "Cancel": "Annuleren"
+  },
+  "Checksum": {
+    "Checksum": "Controlesom"
+  },
+  "Checksum mismatch": {
+    "Checksum mismatch": "Controlesom komt niet overeen"
+  },
+  "Checksum updated for %1": {
+    "Checksum updated for %1": "Controlesom bijgewerkt voor %1"
+  },
+  "Clear all": {
+    "Clear all": "Alles wissen"
+  },
+  "Command line": {
+    "Command line": "Opdrachtregel"
+  },
+  "Comparison": {
+    "Comparison": "Vergelijking"
+  },
+  "Connections": {
+    "Connections": "Verbindingen"
+  },
+  "Connections this rule matches stay out of the connection list.": {
+    "Connections this rule matches stay out of the connection list.": "Verbindingen die overeenkomen met deze regel staan niet in de lijst."
+  },
+  "DNS answers": {
+    "DNS answers": "DNS-antwoorden"
+  },
+  "Daemon (opensnitchd)": {
+    "Daemon (opensnitchd)": "Daemon (opensnitchd)"
+  },
+  "Daemon not connected": {
+    "Daemon not connected": "Daemon niet verbonden"
+  },
+  "Default duration": {
+    "Default duration": "Standaardduur"
+  },
+  "Default policy": {
+    "Default policy": "Standaardbeleid"
+  },
+  "Default target": {
+    "Default target": "Standaarddoel"
+  },
+  "Deny": {
+    "Deny": "Weigeren"
+  },
+  "Description": {
+    "Description": "Beschrijving"
+  },
+  "Dest. IP": {
+    "Dest. IP": "Doel-IP"
+  },
+  "Destination": {
+    "Destination": "Bestemming"
+  },
+  "Destination IP": {
+    "Destination IP": "Bestemmings-IP"
+  },
+  "Destination IP matches": {
+    "Destination IP matches": "Bestemmings-IP komt overeen"
+  },
+  "Do not log matches": {
+    "Do not log matches": "Overeenkomsten niet loggen"
+  },
+  "Drop": {
+    "Drop": "Verwerpen"
+  },
+  "Duration": {
+    "Duration": "Duur"
+  },
+  "Edit rule": {
+    "Edit rule": "Regel bewerken"
+  },
+  "Enable firewall": {
+    "Enable firewall": "Firewall inschakelen"
+  },
+  "Enabled": {
+    "Enabled": "Ingeschakeld"
+  },
+  "Executable": {
+    "Executable": "Uitvoerbaar bestand"
+  },
+  "Expected %1 · Current %2": {
+    "Expected %1 · Current %2": "Verwacht %1 · huidig %2"
+  },
+  "Field": {
+    "Field": "Veld"
+  },
+  "Firewall": {
+    "Firewall": "Firewall"
+  },
+  "Firewall backend": {
+    "Firewall backend": "Firewall-backend"
+  },
+  "For": {
+    "For": "Voor"
+  },
+  "Incoming connections": {
+    "Incoming connections": "Inkomende verbindingen"
+  },
+  "Intercept connections": {
+    "Intercept connections": "Verbindingen onderscheppen"
+  },
+  "Intercept unknown processes": {
+    "Intercept unknown processes": "Onbekende processen onderscheppen"
+  },
+  "Interception is off": {
+    "Interception is off": "Onderschepping staat uit"
+  },
+  "Launched from": {
+    "Launched from": "Gestart vanuit"
+  },
+  "Log level": {
+    "Log level": "Logniveau"
+  },
+  "Lost the connection to the OpenSnitch backend": {
+    "Lost the connection to the OpenSnitch backend": "De verbinding met de OpenSnitch-backend is verbroken."
+  },
+  "Match": {
+    "Match": "Overeenkomst"
+  },
+  "Name": {
+    "Name": "Naam"
+  },
+  "New rule": {
+    "New rule": "Nieuwe regel"
+  },
+  "No connections yet": {
+    "No connections yet": "Nog geen verbindingen"
+  },
+  "Nothing yet": {
+    "Nothing yet": "Nog niets"
+  },
+  "Open OpenSnitch": {
+    "Open OpenSnitch": "Open OpenSnitch"
+  },
+  "Outgoing connection": {
+    "Outgoing connection": "Uitgaande verbinding"
+  },
+  "Outgoing connections": {
+    "Outgoing connections": "Uitgaande verbindingen"
+  },
+  "Overview": {
+    "Overview": "Overzicht"
+  },
+  "Overview statistics": {
+    "Overview statistics": "Overzichtsstatistieken"
+  },
+  "Port": {
+    "Port": "Poort"
+  },
+  "Priority rule": {
+    "Priority rule": "Prioriteitsregel"
+  },
+  "Process monitor": {
+    "Process monitor": "Procesmonitor"
+  },
+  "Protected": {
+    "Protected": "Beschermd"
+  },
+  "Protecting this computer": {
+    "Protecting this computer": "Deze computer wordt beschermd"
+  },
+  "Protection": {
+    "Protection": "Bescherming"
+  },
+  "Queue bypass": {
+    "Queue bypass": "Wachtrij omzeilen"
+  },
+  "Reject": {
+    "Reject": "Afwijzen"
+  },
+  "Reset overview stats": {
+    "Reset overview stats": "Overzichtsstatistieken resetten"
+  },
+  "Reset stats": {
+    "Reset stats": "Statistieken resetten"
+  },
+  "Rule hits": {
+    "Rule hits": "Regelovereenkomsten"
+  },
+  "Rules": {
+    "Rules": "Regels"
+  },
+  "Save": {
+    "Save": "Opslaan"
+  },
+  "Search": {
+    "Search": "Zoeken"
+  },
+  "Search rules": {
+    "Search rules": "Regels zoeken"
+  },
+  "Settings": {
+    "Settings": "Instellingen"
+  },
+  "Show advanced options": {
+    "Show advanced options": "Geavanceerde opties tonen"
+  },
+  "Source": {
+    "Source": "Bron"
+  },
+  "Starting…": {
+    "Starting…": "Starten…"
+  },
+  "System firewall": {
+    "System firewall": "Systeemfirewall"
+  },
+  "Top addresses": {
+    "Top addresses": "Meest voorkomende adressen"
+  },
+  "Top applications": {
+    "Top applications": "Meest voorkomende toepassingen"
+  },
+  "Top hosts": {
+    "Top hosts": "Meest voorkomende hosts"
+  },
+  "Top ports": {
+    "Top ports": "Meest voorkomende poorten"
+  },
+  "Update rule": {
+    "Update rule": "Regel bijwerken"
+  },
+  "User": {
+    "User": "Gebruiker"
+  },
+  "User ID": {
+    "User ID": "Gebruikers-ID"
+  },
+  "Value": {
+    "Value": "Waarde"
+  },
+  "Verify checksums in rules": {
+    "Verify checksums in rules": "Controlesommen in regels controleren"
+  },
+  "When nobody answers": {
+    "When nobody answers": "Als niemand antwoordt"
+  },
+  "Working dir": {
+    "Working dir": "Werkmap"
+  },
+  "equals": {
+    "equals": "is gelijk aan"
+  },
+  "forever": {
+    "forever": "voor altijd"
+  },
+  "from %1": {
+    "from %1": "van %1"
+  },
+  "from user %1": {
+    "from user %1": "van gebruiker %1"
+  },
+  "in network (CIDR)": {
+    "in network (CIDR)": "in netwerk (CIDR)"
+  },
+  "no data yet": {
+    "no data yet": "nog geen gegevens"
+  },
+  "once": {
+    "once": "eenmalig"
+  },
+  "regular expression": {
+    "regular expression": "reguliere expressie"
+  },
+  "to %1": {
+    "to %1": "naar %1"
+  },
+  "to port %1": {
+    "to port %1": "naar poort %1"
+  },
+  "until reboot": {
+    "until reboot": "tot opnieuw opstarten"
+  }
+}

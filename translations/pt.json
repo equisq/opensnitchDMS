@@ -1,0 +1,341 @@
+{
+  "1 hour": {
+    "1 hour": "1 hora"
+  },
+  "12 hours": {
+    "12 hours": "12 horas"
+  },
+  "15 minutes": {
+    "15 minutes": "15 minutos"
+  },
+  "30 minutes": {
+    "30 minutes": "30 minutos"
+  },
+  "30 seconds": {
+    "30 seconds": "30 segundos"
+  },
+  "5 minutes": {
+    "5 minutes": "5 minutos"
+  },
+  "A disabled rule is kept but ignored.": {
+    "A disabled rule is kept but ignored.": "Uma regra desativada é mantida, mas ignorada."
+  },
+  "Action": {
+    "Action": "Ação"
+  },
+  "Advanced": {
+    "Advanced": "Avançado"
+  },
+  "All": {
+    "All": "Todas"
+  },
+  "Allow": {
+    "Allow": "Permitir"
+  },
+  "Allowed": {
+    "Allowed": "Permitidas"
+  },
+  "Also match, by default": {
+    "Also match, by default": "Também corresponder por padrão"
+  },
+  "Answer after": {
+    "Answer after": "Responder após"
+  },
+  "Apply to connections": {
+    "Apply to connections": "Aplicar às conexões"
+  },
+  "Ask on new connections": {
+    "Ask on new connections": "Perguntar em novas conexões"
+  },
+  "Ask when an application connects": {
+    "Ask when an application connects": "Perguntar quando um aplicativo se conectar"
+  },
+  "Authorization prompt": {
+    "Authorization prompt": "Pedido de autorização"
+  },
+  "Back to latest": {
+    "Back to latest": "Voltar às mais recentes"
+  },
+  "Backend not running": {
+    "Backend not running": "Backend não está em execução"
+  },
+  "Blocked": {
+    "Blocked": "Bloqueadas"
+  },
+  "Cancel": {
+    "Cancel": "Cancelar"
+  },
+  "Checksum": {
+    "Checksum": "Soma de verificação"
+  },
+  "Checksum mismatch": {
+    "Checksum mismatch": "Soma de verificação divergente"
+  },
+  "Checksum updated for %1": {
+    "Checksum updated for %1": "Soma de verificação atualizada para %1"
+  },
+  "Clear all": {
+    "Clear all": "Limpar tudo"
+  },
+  "Command line": {
+    "Command line": "Linha de comando"
+  },
+  "Comparison": {
+    "Comparison": "Comparação"
+  },
+  "Connections": {
+    "Connections": "Conexões"
+  },
+  "Connections this rule matches stay out of the connection list.": {
+    "Connections this rule matches stay out of the connection list.": "As conexões correspondentes a esta regra não aparecem na lista."
+  },
+  "DNS answers": {
+    "DNS answers": "Respostas DNS"
+  },
+  "Daemon (opensnitchd)": {
+    "Daemon (opensnitchd)": "Daemon (opensnitchd)"
+  },
+  "Daemon not connected": {
+    "Daemon not connected": "Daemon desconectado"
+  },
+  "Default duration": {
+    "Default duration": "Duração padrão"
+  },
+  "Default policy": {
+    "Default policy": "Política padrão"
+  },
+  "Default target": {
+    "Default target": "Destino padrão"
+  },
+  "Deny": {
+    "Deny": "Negar"
+  },
+  "Description": {
+    "Description": "Descrição"
+  },
+  "Dest. IP": {
+    "Dest. IP": "IP dest."
+  },
+  "Destination": {
+    "Destination": "Destino"
+  },
+  "Destination IP": {
+    "Destination IP": "IP de destino"
+  },
+  "Destination IP matches": {
+    "Destination IP matches": "IP de destino corresponde"
+  },
+  "Do not log matches": {
+    "Do not log matches": "Não registrar correspondências"
+  },
+  "Drop": {
+    "Drop": "Descartar"
+  },
+  "Duration": {
+    "Duration": "Duração"
+  },
+  "Edit rule": {
+    "Edit rule": "Editar regra"
+  },
+  "Enable firewall": {
+    "Enable firewall": "Ativar firewall"
+  },
+  "Enabled": {
+    "Enabled": "Ativada"
+  },
+  "Executable": {
+    "Executable": "Executável"
+  },
+  "Expected %1 · Current %2": {
+    "Expected %1 · Current %2": "Esperado %1 · Atual %2"
+  },
+  "Field": {
+    "Field": "Campo"
+  },
+  "Firewall": {
+    "Firewall": "Firewall"
+  },
+  "Firewall backend": {
+    "Firewall backend": "Backend do firewall"
+  },
+  "For": {
+    "For": "Por"
+  },
+  "Incoming connections": {
+    "Incoming connections": "Conexões de entrada"
+  },
+  "Intercept connections": {
+    "Intercept connections": "Interceptar conexões"
+  },
+  "Intercept unknown processes": {
+    "Intercept unknown processes": "Interceptar processos desconhecidos"
+  },
+  "Interception is off": {
+    "Interception is off": "A interceptação está desativada"
+  },
+  "Launched from": {
+    "Launched from": "Iniciado de"
+  },
+  "Log level": {
+    "Log level": "Nível de log"
+  },
+  "Lost the connection to the OpenSnitch backend": {
+    "Lost the connection to the OpenSnitch backend": "A conexão com o backend do OpenSnitch foi perdida."
+  },
+  "Match": {
+    "Match": "Correspondência"
+  },
+  "Name": {
+    "Name": "Nome"
+  },
+  "New rule": {
+    "New rule": "Nova regra"
+  },
+  "No connections yet": {
+    "No connections yet": "Ainda sem conexões"
+  },
+  "Nothing yet": {
+    "Nothing yet": "Ainda nada"
+  },
+  "Open OpenSnitch": {
+    "Open OpenSnitch": "Abrir OpenSnitch"
+  },
+  "Outgoing connection": {
+    "Outgoing connection": "Conexão de saída"
+  },
+  "Outgoing connections": {
+    "Outgoing connections": "Conexões de saída"
+  },
+  "Overview": {
+    "Overview": "Visão geral"
+  },
+  "Overview statistics": {
+    "Overview statistics": "Estatísticas da visão geral"
+  },
+  "Port": {
+    "Port": "Porta"
+  },
+  "Priority rule": {
+    "Priority rule": "Regra prioritária"
+  },
+  "Process monitor": {
+    "Process monitor": "Monitor de processos"
+  },
+  "Protected": {
+    "Protected": "Protegido"
+  },
+  "Protecting this computer": {
+    "Protecting this computer": "Protegendo este computador"
+  },
+  "Protection": {
+    "Protection": "Proteção"
+  },
+  "Queue bypass": {
+    "Queue bypass": "Ignorar fila"
+  },
+  "Reject": {
+    "Reject": "Rejeitar"
+  },
+  "Reset overview stats": {
+    "Reset overview stats": "Redefinir estatísticas da visão geral"
+  },
+  "Reset stats": {
+    "Reset stats": "Redefinir estatísticas"
+  },
+  "Rule hits": {
+    "Rule hits": "Correspondências de regras"
+  },
+  "Rules": {
+    "Rules": "Regras"
+  },
+  "Save": {
+    "Save": "Salvar"
+  },
+  "Search": {
+    "Search": "Pesquisar"
+  },
+  "Search rules": {
+    "Search rules": "Pesquisar regras"
+  },
+  "Settings": {
+    "Settings": "Configurações"
+  },
+  "Show advanced options": {
+    "Show advanced options": "Mostrar opções avançadas"
+  },
+  "Source": {
+    "Source": "Origem"
+  },
+  "Starting…": {
+    "Starting…": "Iniciando…"
+  },
+  "System firewall": {
+    "System firewall": "Firewall do sistema"
+  },
+  "Top addresses": {
+    "Top addresses": "Principais endereços"
+  },
+  "Top applications": {
+    "Top applications": "Principais aplicativos"
+  },
+  "Top hosts": {
+    "Top hosts": "Principais hosts"
+  },
+  "Top ports": {
+    "Top ports": "Principais portas"
+  },
+  "Update rule": {
+    "Update rule": "Atualizar regra"
+  },
+  "User": {
+    "User": "Usuário"
+  },
+  "User ID": {
+    "User ID": "ID do usuário"
+  },
+  "Value": {
+    "Value": "Valor"
+  },
+  "Verify checksums in rules": {
+    "Verify checksums in rules": "Verificar somas nas regras"
+  },
+  "When nobody answers": {
+    "When nobody answers": "Quando ninguém responder"
+  },
+  "Working dir": {
+    "Working dir": "Diretório de trabalho"
+  },
+  "equals": {
+    "equals": "igual a"
+  },
+  "forever": {
+    "forever": "para sempre"
+  },
+  "from %1": {
+    "from %1": "de %1"
+  },
+  "from user %1": {
+    "from user %1": "do usuário %1"
+  },
+  "in network (CIDR)": {
+    "in network (CIDR)": "na rede (CIDR)"
+  },
+  "no data yet": {
+    "no data yet": "sem dados ainda"
+  },
+  "once": {
+    "once": "uma vez"
+  },
+  "regular expression": {
+    "regular expression": "expressão regular"
+  },
+  "to %1": {
+    "to %1": "para %1"
+  },
+  "to port %1": {
+    "to port %1": "para a porta %1"
+  },
+  "until reboot": {
+    "until reboot": "até reiniciar"
+  }
+}

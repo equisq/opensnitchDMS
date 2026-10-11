@@ -1,0 +1,566 @@
+{
+  " · daemon ": {
+    " · daemon ": " · démon "
+  },
+  "%1 allowed · %2 blocked": {
+    "%1 allowed · %2 blocked": "%1 autorisées · %2 bloquées"
+  },
+  "%1 chains, %2 rules": {
+    "%1 chains, %2 rules": "%1 chaînes, %2 règles"
+  },
+  "%1 chains, %2 rules managed by OpenSnitch (editing them is done in the Qt UI or system-fw.json)": {
+    "%1 chains, %2 rules managed by OpenSnitch (editing them is done in the Qt UI or system-fw.json)": "%1 chaînes, %2 règles gérées par OpenSnitch (modification dans l’interface Qt ou system-fw.json)"
+  },
+  "%1 is attempting to resolve %2 via %3, %4 port 53": {
+    "%1 is attempting to resolve %2 via %3, %4 port 53": "%1 tente de résoudre %2 via %3, port 53 en %4"
+  },
+  "%1 is connecting to %2 on %3 port %4": {
+    "%1 is connecting to %2 on %3 port %4": "%1 se connecte à %2 en %3 sur le port %4"
+  },
+  "%1 is connecting to %2, %3": {
+    "%1 is connecting to %2, %3": "%1 se connecte à %2 en %3"
+  },
+  "%1 recent · live": {
+    "%1 recent · live": "%1 récentes · en direct"
+  },
+  "%1 rules on this computer": {
+    "%1 rules on this computer": "%1 règles sur cet ordinateur"
+  },
+  "%1 waiting": {
+    "%1 waiting": "%1 en attente"
+  },
+  "%1s": {
+    "%1s": "%1 s"
+  },
+  "1 hour": {
+    "1 hour": "1 heure"
+  },
+  "12 hours": {
+    "12 hours": "12 heures"
+  },
+  "15 minutes": {
+    "15 minutes": "15 minutes"
+  },
+  "30 minutes": {
+    "30 minutes": "30 minutes"
+  },
+  "30 seconds": {
+    "30 seconds": "30 secondes"
+  },
+  "5 minutes": {
+    "5 minutes": "5 minutes"
+  },
+  "<b>Remote</b> process %1 on <b>%2</b>": {
+    "<b>Remote</b> process %1 on <b>%2</b>": "Processus <b>distant</b> %1 sur <b>%2</b>"
+  },
+  "A disabled rule is kept but ignored.": {
+    "A disabled rule is kept but ignored.": "Une règle désactivée est conservée mais ignorée."
+  },
+  "Action": {
+    "Action": "Action"
+  },
+  "Adding or editing individual firewall rules is still done in the Qt UI or system-fw.json.": {
+    "Adding or editing individual firewall rules is still done in the Qt UI or system-fw.json.": "L’ajout ou la modification de règles de pare-feu individuelles se fait toujours dans l’interface Qt ou system-fw.json."
+  },
+  "Address the daemon connects to": {
+    "Address the daemon connects to": "Adresse de connexion au démon"
+  },
+  "Advanced": {
+    "Advanced": "Avancé"
+  },
+  "All": {
+    "All": "Tout"
+  },
+  "Allow": {
+    "Allow": "Autoriser"
+  },
+  "Allow: anything may reach this computer. Drop: only local and already established traffic gets in.": {
+    "Allow: anything may reach this computer. Drop: only local and already established traffic gets in.": "Autoriser : tout trafic peut atteindre cet ordinateur. Bloquer : seul le trafic local ou déjà établi peut entrer."
+  },
+  "Allow: applications may connect out, subject to your rules. Drop: only established traffic leaves, so new connections need an allow rule.": {
+    "Allow: applications may connect out, subject to your rules. Drop: only established traffic leaves, so new connections need an allow rule.": "Autoriser : les applications peuvent se connecter selon vos règles. Bloquer : seul le trafic établi sort ; les nouvelles connexions nécessitent une règle d’autorisation."
+  },
+  "Allowed": {
+    "Allowed": "Autorisées"
+  },
+  "Also filter connections whose process could not be identified.": {
+    "Also filter connections whose process could not be identified.": "Filtrer également les connexions dont le processus n’a pas pu être identifié."
+  },
+  "Also match, by default": {
+    "Also match, by default": "Ajouter ces critères par défaut"
+  },
+  "Answer after": {
+    "Answer after": "Répondre après"
+  },
+  "Apply to connections": {
+    "Apply to connections": "Appliquer aux connexions"
+  },
+  "Ask on new connections": {
+    "Ask on new connections": "Demander pour les nouvelles connexions"
+  },
+  "Ask when an application connects": {
+    "Ask when an application connects": "Demander lorsqu’une application se connecte"
+  },
+  "Authorization prompt": {
+    "Authorization prompt": "Demande d’autorisation"
+  },
+  "Back to latest": {
+    "Back to latest": "Revenir aux plus récentes"
+  },
+  "Backend not running": {
+    "Backend not running": "Service d’arrière-plan arrêté"
+  },
+  "Blocked": {
+    "Blocked": "Bloquées"
+  },
+  "Build it with ./build.sh in the plugin folder (needs Go). If the Qt opensnitch-ui is running it holds the socket; quit it first.": {
+    "Build it with ./build.sh in the plugin folder (needs Go). If the Qt opensnitch-ui is running it holds the socket; quit it first.": "Compilez-le avec ./build.sh dans le dossier du plugin (Go est nécessaire). Si opensnitch-ui de Qt est lancé, il occupe le socket ; fermez-le d’abord."
+  },
+  "Cancel": {
+    "Cancel": "Annuler"
+  },
+  "Checked before the others; a priority deny always wins.": {
+    "Checked before the others; a priority deny always wins.": "Évaluée avant les autres ; un refus prioritaire l’emporte toujours."
+  },
+  "Checksum": {
+    "Checksum": "Somme de contrôle"
+  },
+  "Checksum mismatch": {
+    "Checksum mismatch": "Somme de contrôle différente"
+  },
+  "Checksum updated for %1": {
+    "Checksum updated for %1": "Somme de contrôle mise à jour pour %1"
+  },
+  "Clear all": {
+    "Clear all": "Tout effacer"
+  },
+  "Command line": {
+    "Command line": "Ligne de commande"
+  },
+  "Comparison": {
+    "Comparison": "Comparaison"
+  },
+  "Connections": {
+    "Connections": "Connexions"
+  },
+  "Connections are checked against %1 rules; unknown ones are %2 unless you answer a prompt.": {
+    "Connections are checked against %1 rules; unknown ones are %2 unless you answer a prompt.": "Les connexions sont vérifiées par rapport à %1 règles ; les connexions inconnues sont %2 si vous ne répondez pas à la demande."
+  },
+  "Connections this rule matches stay out of the connection list.": {
+    "Connections this rule matches stay out of the connection list.": "Les connexions correspondant à cette règle n’apparaissent pas dans la liste."
+  },
+  "DNS answers": {
+    "DNS answers": "Réponses DNS"
+  },
+  "Daemon (opensnitchd)": {
+    "Daemon (opensnitchd)": "Démon (opensnitchd)"
+  },
+  "Daemon not connected": {
+    "Daemon not connected": "Démon non connecté"
+  },
+  "Debug": {
+    "Debug": "Débogage"
+  },
+  "Default duration": {
+    "Default duration": "Durée par défaut"
+  },
+  "Default policy": {
+    "Default policy": "Politique par défaut"
+  },
+  "Default policy of the system firewall rules managed by OpenSnitch": {
+    "Default policy of the system firewall rules managed by OpenSnitch": "Politique par défaut des règles du pare-feu système gérées par OpenSnitch"
+  },
+  "Default target": {
+    "Default target": "Cible par défaut"
+  },
+  "Deny": {
+    "Deny": "Refuser"
+  },
+  "Description": {
+    "Description": "Description"
+  },
+  "Dest. IP": {
+    "Dest. IP": "IP dest."
+  },
+  "Destination": {
+    "Destination": "Destination"
+  },
+  "Destination IP": {
+    "Destination IP": "IP de destination"
+  },
+  "Destination IP matches": {
+    "Destination IP matches": "IP de destination correspond à"
+  },
+  "Destination port": {
+    "Destination port": "Port de destination"
+  },
+  "Do not log matches": {
+    "Do not log matches": "Ne pas journaliser les correspondances"
+  },
+  "Drop": {
+    "Drop": "Bloquer"
+  },
+  "Duration": {
+    "Duration": "Durée"
+  },
+  "Edit rule": {
+    "Edit rule": "Modifier la règle"
+  },
+  "Enable firewall": {
+    "Enable firewall": "Activer le pare-feu"
+  },
+  "Enable the firewall to change these.": {
+    "Enable the firewall to change these.": "Activez le pare-feu pour modifier ces paramètres."
+  },
+  "Enabled": {
+    "Enabled": "Activée"
+  },
+  "Error": {
+    "Error": "Erreur"
+  },
+  "Executable": {
+    "Executable": "Exécutable"
+  },
+  "Expected %1 · Current %2": {
+    "Expected %1 · Current %2": "Attendue : %1 · actuelle : %2"
+  },
+  "Field": {
+    "Field": "Champ"
+  },
+  "Firewall": {
+    "Firewall": "Pare-feu"
+  },
+  "Firewall backend": {
+    "Firewall backend": "Moteur du pare-feu"
+  },
+  "For": {
+    "For": "Durée"
+  },
+  "How the daemon finds the process behind a connection.": {
+    "How the daemon finds the process behind a connection.": "Méthode utilisée par le démon pour identifier le processus à l’origine d’une connexion."
+  },
+  "Important": {
+    "Important": "Important"
+  },
+  "Incoming connections": {
+    "Incoming connections": "Connexions entrantes"
+  },
+  "Info": {
+    "Info": "Information"
+  },
+  "Intercept connections": {
+    "Intercept connections": "Intercepter les connexions"
+  },
+  "Intercept unknown processes": {
+    "Intercept unknown processes": "Intercepter les processus inconnus"
+  },
+  "Interception is off": {
+    "Interception is off": "L’interception est désactivée"
+  },
+  "Launched from": {
+    "Launched from": "Lancé depuis"
+  },
+  "Let traffic through if the daemon stops, instead of blocking everything.": {
+    "Let traffic through if the daemon stops, instead of blocking everything.": "Laisser passer le trafic si le démon s’arrête au lieu de tout bloquer."
+  },
+  "Log level": {
+    "Log level": "Niveau de journalisation"
+  },
+  "Lost the connection to the OpenSnitch backend": {
+    "Lost the connection to the OpenSnitch backend": "La connexion au service OpenSnitch a été perdue."
+  },
+  "MD5": {
+    "MD5": "MD5"
+  },
+  "Match": {
+    "Match": "Correspondance"
+  },
+  "Must equal Server.Address in /etc/opensnitchd/default-config.json. Restart the shell (or reload the plugin) after changing it.": {
+    "Must equal Server.Address in /etc/opensnitchd/default-config.json. Restart the shell (or reload the plugin) after changing it.": "Doit correspondre à Server.Address dans /etc/opensnitchd/default-config.json. Redémarrez le shell (ou rechargez le plugin) après modification."
+  },
+  "Name": {
+    "Name": "Nom"
+  },
+  "New rule": {
+    "New rule": "Nouvelle règle"
+  },
+  "No connections yet": {
+    "No connections yet": "Aucune connexion pour le moment"
+  },
+  "No rule matches": {
+    "No rule matches": "Aucune règle correspondante"
+  },
+  "No rules yet. They appear as you answer prompts.": {
+    "No rules yet. They appear as you answer prompts.": "Aucune règle pour le moment. Elles apparaîtront lorsque vous répondrez aux demandes."
+  },
+  "Node": {
+    "Node": "Nœud"
+  },
+  "Nothing is being filtered right now.": {
+    "Nothing is being filtered right now.": "Aucun trafic n’est filtré pour le moment."
+  },
+  "Nothing yet": {
+    "Nothing yet": "Rien pour le moment"
+  },
+  "Off: unknown connections get the default action silently.": {
+    "Off: unknown connections get the default action silently.": "Désactivé : l’action par défaut est appliquée silencieusement aux connexions inconnues."
+  },
+  "Open OpenSnitch": {
+    "Open OpenSnitch": "Ouvrir OpenSnitch"
+  },
+  "OpenSnitch UI backend %1%2": {
+    "OpenSnitch UI backend %1%2": "Service OpenSnitch UI %1%2"
+  },
+  "OpenSnitch plugin directory not found": {
+    "OpenSnitch plugin directory not found": "Dossier du plugin OpenSnitch introuvable"
+  },
+  "Outgoing connection": {
+    "Outgoing connection": "Connexion sortante"
+  },
+  "Outgoing connections": {
+    "Outgoing connections": "Connexions sortantes"
+  },
+  "Output policy is set to drop. If OpenSnitch stops, outbound network traffic stays blocked.": {
+    "Output policy is set to drop. If OpenSnitch stops, outbound network traffic stays blocked.": "La politique sortante bloque le trafic. Si OpenSnitch s’arrête, le trafic réseau sortant restera bloqué."
+  },
+  "Overview": {
+    "Overview": "Vue d’ensemble"
+  },
+  "Overview statistics": {
+    "Overview statistics": "Statistiques de la vue d’ensemble"
+  },
+  "PID": {
+    "PID": "PID"
+  },
+  "PID / UID": {
+    "PID / UID": "PID / UID"
+  },
+  "Port": {
+    "Port": "Port"
+  },
+  "Port %1": {
+    "Port %1": "Port %1"
+  },
+  "Priority rule": {
+    "Priority rule": "Règle prioritaire"
+  },
+  "Process monitor": {
+    "Process monitor": "Surveillance des processus"
+  },
+  "Prompt behaviour is kept by this plugin; daemon options are sent to opensnitchd": {
+    "Prompt behaviour is kept by this plugin; daemon options are sent to opensnitchd": "Le comportement des demandes est géré par ce plugin ; les options du démon sont envoyées à opensnitchd"
+  },
+  "Protected": {
+    "Protected": "Protégé"
+  },
+  "Protecting this computer": {
+    "Protecting this computer": "Cet ordinateur est protégé"
+  },
+  "Protection": {
+    "Protection": "Protection"
+  },
+  "Protocol": {
+    "Protocol": "Protocole"
+  },
+  "Queue bypass": {
+    "Queue bypass": "Contournement de la file d’attente"
+  },
+  "Reject": {
+    "Reject": "Rejeter"
+  },
+  "Reject tells the app straight away; drop makes it wait.": {
+    "Reject tells the app straight away; drop makes it wait.": "« Rejeter » répond immédiatement à l’application ; « Bloquer » la fait attendre."
+  },
+  "Reset overview stats": {
+    "Reset overview stats": "Réinitialiser les statistiques de la vue d’ensemble"
+  },
+  "Reset stats": {
+    "Reset stats": "Réinitialiser les statistiques"
+  },
+  "Rule hits": {
+    "Rule hits": "Correspondances des règles"
+  },
+  "Rules": {
+    "Rules": "Règles"
+  },
+  "Rules with a process hash are checked against the binary.": {
+    "Rules with a process hash are checked against the binary.": "Les règles avec une empreinte de processus sont vérifiées par rapport au binaire."
+  },
+  "Run ./build.sh in %1 (needs Go), then enable this plugin again.": {
+    "Run ./build.sh in %1 (needs Go), then enable this plugin again.": "Exécutez ./build.sh dans %1 (Go est nécessaire), puis réactivez ce plugin."
+  },
+  "Save": {
+    "Save": "Enregistrer"
+  },
+  "Search": {
+    "Search": "Rechercher"
+  },
+  "Search rules": {
+    "Search rules": "Rechercher des règles"
+  },
+  "Seconds before the default action is applied. 0 never shows the prompt.": {
+    "Seconds before the default action is applied. 0 never shows the prompt.": "Délai avant l’application de l’action par défaut. 0 désactive la demande."
+  },
+  "Settings": {
+    "Settings": "Paramètres"
+  },
+  "Show advanced options": {
+    "Show advanced options": "Afficher les options avancées"
+  },
+  "Source": {
+    "Source": "Source"
+  },
+  "Start counters and top lists from zero for this daemon. The baseline is saved by the plugin; daemon uptime, rules and connection history stay intact.": {
+    "Start counters and top lists from zero for this daemon. The baseline is saved by the plugin; daemon uptime, rules and connection history stay intact.": "Remettre à zéro les compteurs et classements de ce démon. Le point de départ est enregistré par le plugin ; la durée de fonctionnement, les règles et l’historique des connexions sont conservés."
+  },
+  "Start opensnitchd (systemctl start opensnitchd) and it will connect here.": {
+    "Start opensnitchd (systemctl start opensnitchd) and it will connect here.": "Démarrez opensnitchd (systemctl start opensnitchd) pour le connecter ici."
+  },
+  "Start the prompt with the advanced section open.": {
+    "Start the prompt with the advanced section open.": "Ouvrir la section avancée au démarrage de la demande."
+  },
+  "Starting…": {
+    "Starting…": "Démarrage…"
+  },
+  "System firewall": {
+    "System firewall": "Pare-feu système"
+  },
+  "The OpenSnitch backend is not built": {
+    "The OpenSnitch backend is not built": "Le service OpenSnitch n’a pas été compilé"
+  },
+  "The OpenSnitch backend is not running": {
+    "The OpenSnitch backend is not running": "Le service OpenSnitch n’est pas démarré"
+  },
+  "The OpenSnitch daemon is not connected.": {
+    "The OpenSnitch daemon is not connected.": "Le démon OpenSnitch n’est pas connecté."
+  },
+  "The action for connections no rule matches, while this UI is connected.": {
+    "The action for connections no rule matches, while this UI is connected.": "Action appliquée aux connexions sans règle correspondante lorsque cette interface est connectée."
+  },
+  "The daemon did not report a system firewall configuration. It needs a recent opensnitchd with the nftables backend.": {
+    "The daemon did not report a system firewall configuration. It needs a recent opensnitchd with the nftables backend.": "Le démon n’a pas fourni sa configuration du pare-feu système. Une version récente d’opensnitchd avec le moteur nftables est nécessaire."
+  },
+  "The plugin could not locate its own files. Try reinstalling it.": {
+    "The plugin could not locate its own files. Try reinstalling it.": "Le plugin ne trouve pas ses fichiers. Essayez de le réinstaller."
+  },
+  "This executable's MD5 differs from an active rule. Review the affected rules before allowing it.": {
+    "This executable's MD5 differs from an active rule. Review the affected rules before allowing it.": "Le MD5 de cet exécutable diffère de celui d’une règle active. Vérifiez les règles concernées avant de l’autoriser."
+  },
+  "This rule combines several conditions (all must match). Their editing is not offered here; you can change everything else above.": {
+    "This rule combines several conditions (all must match). Their editing is not offered here; you can change everything else above.": "Cette règle combine plusieurs conditions (elles doivent toutes correspondre). Leur modification n’est pas disponible ici ; vous pouvez changer les autres paramètres ci-dessus."
+  },
+  "Top addresses": {
+    "Top addresses": "Adresses principales"
+  },
+  "Top applications": {
+    "Top applications": "Applications principales"
+  },
+  "Top hosts": {
+    "Top hosts": "Hôtes principaux"
+  },
+  "Top ports": {
+    "Top ports": "Ports principaux"
+  },
+  "Trace": {
+    "Trace": "Trace"
+  },
+  "Turn the filtering off and on without stopping the daemon.": {
+    "Turn the filtering off and on without stopping the daemon.": "Activer ou désactiver le filtrage sans arrêter le démon."
+  },
+  "Update rule": {
+    "Update rule": "Mettre à jour la règle"
+  },
+  "User": {
+    "User": "Utilisateur"
+  },
+  "User ID": {
+    "User ID": "Identifiant utilisateur"
+  },
+  "Value": {
+    "Value": "Valeur"
+  },
+  "Verify checksums in rules": {
+    "Verify checksums in rules": "Vérifier les sommes de contrôle des règles"
+  },
+  "Waiting for the OpenSnitch daemon": {
+    "Waiting for the OpenSnitch daemon": "En attente du démon OpenSnitch"
+  },
+  "Warning": {
+    "Warning": "Avertissement"
+  },
+  "What a new rule matches unless you pick otherwise.": {
+    "What a new rule matches unless you pick otherwise.": "Critère utilisé par une nouvelle règle, sauf si vous en choisissez un autre."
+  },
+  "When nobody answers": {
+    "When nobody answers": "En l’absence de réponse"
+  },
+  "Working dir": {
+    "Working dir": "Répertoire de travail"
+  },
+  "allowed": {
+    "allowed": "autorisées"
+  },
+  "blocked": {
+    "blocked": "bloquées"
+  },
+  "equals": {
+    "equals": "est égal à"
+  },
+  "forever": {
+    "forever": "indéfiniment"
+  },
+  "from %1": {
+    "from %1": "depuis %1"
+  },
+  "from this PID": {
+    "from this PID": "depuis ce PID"
+  },
+  "from this command line": {
+    "from this command line": "depuis cette ligne de commande"
+  },
+  "from this executable": {
+    "from this executable": "depuis cet exécutable"
+  },
+  "from user": {
+    "from user": "depuis cet utilisateur"
+  },
+  "from user %1": {
+    "from user %1": "depuis l’utilisateur %1"
+  },
+  "in network (CIDR)": {
+    "in network (CIDR)": "appartient au réseau (CIDR)"
+  },
+  "no data yet": {
+    "no data yet": "aucune donnée"
+  },
+  "off": {
+    "off": "désactivé"
+  },
+  "once": {
+    "once": "une fois"
+  },
+  "regular expression": {
+    "regular expression": "expression régulière"
+  },
+  "this computer": {
+    "this computer": "cet ordinateur"
+  },
+  "to %1": {
+    "to %1": "vers %1"
+  },
+  "to IP": {
+    "to IP": "vers cette IP"
+  },
+  "to port": {
+    "to port": "vers ce port"
+  },
+  "to port %1": {
+    "to port %1": "vers le port %1"
+  },
+  "unknown process": {
+    "unknown process": "processus inconnu"
+  },
+  "until reboot": {
+    "until reboot": "jusqu’au redémarrage"
+  }
+}

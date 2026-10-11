@@ -1,0 +1,341 @@
+{
+  "1 hour": {
+    "1 hour": "1 小时"
+  },
+  "12 hours": {
+    "12 hours": "12 小时"
+  },
+  "15 minutes": {
+    "15 minutes": "15 分钟"
+  },
+  "30 minutes": {
+    "30 minutes": "30 分钟"
+  },
+  "30 seconds": {
+    "30 seconds": "30 秒"
+  },
+  "5 minutes": {
+    "5 minutes": "5 分钟"
+  },
+  "A disabled rule is kept but ignored.": {
+    "A disabled rule is kept but ignored.": "已禁用的规则会保留但不会生效。"
+  },
+  "Action": {
+    "Action": "操作"
+  },
+  "Advanced": {
+    "Advanced": "高级"
+  },
+  "All": {
+    "All": "全部"
+  },
+  "Allow": {
+    "Allow": "允许"
+  },
+  "Allowed": {
+    "Allowed": "已允许"
+  },
+  "Also match, by default": {
+    "Also match, by default": "默认同时匹配"
+  },
+  "Answer after": {
+    "Answer after": "等待后自动处理"
+  },
+  "Apply to connections": {
+    "Apply to connections": "应用到连接"
+  },
+  "Ask on new connections": {
+    "Ask on new connections": "新连接时询问"
+  },
+  "Ask when an application connects": {
+    "Ask when an application connects": "应用连接时询问"
+  },
+  "Authorization prompt": {
+    "Authorization prompt": "授权提示"
+  },
+  "Back to latest": {
+    "Back to latest": "回到最新"
+  },
+  "Backend not running": {
+    "Backend not running": "后端未运行"
+  },
+  "Blocked": {
+    "Blocked": "已拦截"
+  },
+  "Cancel": {
+    "Cancel": "取消"
+  },
+  "Checksum": {
+    "Checksum": "校验和"
+  },
+  "Checksum mismatch": {
+    "Checksum mismatch": "校验和不匹配"
+  },
+  "Checksum updated for %1": {
+    "Checksum updated for %1": "已更新 %1 的校验和"
+  },
+  "Clear all": {
+    "Clear all": "清除全部"
+  },
+  "Command line": {
+    "Command line": "命令行"
+  },
+  "Comparison": {
+    "Comparison": "比较方式"
+  },
+  "Connections": {
+    "Connections": "连接"
+  },
+  "Connections this rule matches stay out of the connection list.": {
+    "Connections this rule matches stay out of the connection list.": "符合此规则的连接不会显示在连接列表中。"
+  },
+  "DNS answers": {
+    "DNS answers": "DNS 响应"
+  },
+  "Daemon (opensnitchd)": {
+    "Daemon (opensnitchd)": "守护进程 (opensnitchd)"
+  },
+  "Daemon not connected": {
+    "Daemon not connected": "守护进程未连接"
+  },
+  "Default duration": {
+    "Default duration": "默认时长"
+  },
+  "Default policy": {
+    "Default policy": "默认策略"
+  },
+  "Default target": {
+    "Default target": "默认目标"
+  },
+  "Deny": {
+    "Deny": "拒绝"
+  },
+  "Description": {
+    "Description": "描述"
+  },
+  "Dest. IP": {
+    "Dest. IP": "目标 IP"
+  },
+  "Destination": {
+    "Destination": "目标"
+  },
+  "Destination IP": {
+    "Destination IP": "目标 IP"
+  },
+  "Destination IP matches": {
+    "Destination IP matches": "匹配目标 IP"
+  },
+  "Do not log matches": {
+    "Do not log matches": "不记录匹配项"
+  },
+  "Drop": {
+    "Drop": "丢弃"
+  },
+  "Duration": {
+    "Duration": "时长"
+  },
+  "Edit rule": {
+    "Edit rule": "编辑规则"
+  },
+  "Enable firewall": {
+    "Enable firewall": "启用防火墙"
+  },
+  "Enabled": {
+    "Enabled": "已启用"
+  },
+  "Executable": {
+    "Executable": "可执行文件"
+  },
+  "Expected %1 · Current %2": {
+    "Expected %1 · Current %2": "预期 %1 · 当前 %2"
+  },
+  "Field": {
+    "Field": "字段"
+  },
+  "Firewall": {
+    "Firewall": "防火墙"
+  },
+  "Firewall backend": {
+    "Firewall backend": "防火墙后端"
+  },
+  "For": {
+    "For": "持续时间"
+  },
+  "Incoming connections": {
+    "Incoming connections": "传入连接"
+  },
+  "Intercept connections": {
+    "Intercept connections": "拦截连接"
+  },
+  "Intercept unknown processes": {
+    "Intercept unknown processes": "拦截未知进程"
+  },
+  "Interception is off": {
+    "Interception is off": "拦截已关闭"
+  },
+  "Launched from": {
+    "Launched from": "启动位置"
+  },
+  "Log level": {
+    "Log level": "日志级别"
+  },
+  "Lost the connection to the OpenSnitch backend": {
+    "Lost the connection to the OpenSnitch backend": "与 OpenSnitch 后端的连接已断开。"
+  },
+  "Match": {
+    "Match": "匹配"
+  },
+  "Name": {
+    "Name": "名称"
+  },
+  "New rule": {
+    "New rule": "新建规则"
+  },
+  "No connections yet": {
+    "No connections yet": "暂无连接"
+  },
+  "Nothing yet": {
+    "Nothing yet": "暂无数据"
+  },
+  "Open OpenSnitch": {
+    "Open OpenSnitch": "打开 OpenSnitch"
+  },
+  "Outgoing connection": {
+    "Outgoing connection": "传出连接"
+  },
+  "Outgoing connections": {
+    "Outgoing connections": "传出连接"
+  },
+  "Overview": {
+    "Overview": "概览"
+  },
+  "Overview statistics": {
+    "Overview statistics": "概览统计"
+  },
+  "Port": {
+    "Port": "端口"
+  },
+  "Priority rule": {
+    "Priority rule": "优先规则"
+  },
+  "Process monitor": {
+    "Process monitor": "进程监视器"
+  },
+  "Protected": {
+    "Protected": "受保护"
+  },
+  "Protecting this computer": {
+    "Protecting this computer": "正在保护此电脑"
+  },
+  "Protection": {
+    "Protection": "保护"
+  },
+  "Queue bypass": {
+    "Queue bypass": "队列旁路"
+  },
+  "Reject": {
+    "Reject": "拒绝连接"
+  },
+  "Reset overview stats": {
+    "Reset overview stats": "重置概览统计"
+  },
+  "Reset stats": {
+    "Reset stats": "重置统计"
+  },
+  "Rule hits": {
+    "Rule hits": "规则命中"
+  },
+  "Rules": {
+    "Rules": "规则"
+  },
+  "Save": {
+    "Save": "保存"
+  },
+  "Search": {
+    "Search": "搜索"
+  },
+  "Search rules": {
+    "Search rules": "搜索规则"
+  },
+  "Settings": {
+    "Settings": "设置"
+  },
+  "Show advanced options": {
+    "Show advanced options": "显示高级选项"
+  },
+  "Source": {
+    "Source": "来源"
+  },
+  "Starting…": {
+    "Starting…": "正在启动…"
+  },
+  "System firewall": {
+    "System firewall": "系统防火墙"
+  },
+  "Top addresses": {
+    "Top addresses": "热门地址"
+  },
+  "Top applications": {
+    "Top applications": "热门应用"
+  },
+  "Top hosts": {
+    "Top hosts": "热门主机"
+  },
+  "Top ports": {
+    "Top ports": "热门端口"
+  },
+  "Update rule": {
+    "Update rule": "更新规则"
+  },
+  "User": {
+    "User": "用户"
+  },
+  "User ID": {
+    "User ID": "用户 ID"
+  },
+  "Value": {
+    "Value": "值"
+  },
+  "Verify checksums in rules": {
+    "Verify checksums in rules": "验证规则中的校验和"
+  },
+  "When nobody answers": {
+    "When nobody answers": "无人响应时"
+  },
+  "Working dir": {
+    "Working dir": "工作目录"
+  },
+  "equals": {
+    "equals": "等于"
+  },
+  "forever": {
+    "forever": "永久"
+  },
+  "from %1": {
+    "from %1": "来自 %1"
+  },
+  "from user %1": {
+    "from user %1": "来自用户 %1"
+  },
+  "in network (CIDR)": {
+    "in network (CIDR)": "属于网络 (CIDR)"
+  },
+  "no data yet": {
+    "no data yet": "暂无数据"
+  },
+  "once": {
+    "once": "一次"
+  },
+  "regular expression": {
+    "regular expression": "正则表达式"
+  },
+  "to %1": {
+    "to %1": "到 %1"
+  },
+  "to port %1": {
+    "to port %1": "到端口 %1"
+  },
+  "until reboot": {
+    "until reboot": "直到重启"
+  }
+}

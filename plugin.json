@@ -1,0 +1,22 @@
+{
+    "id": "opensnitch",
+    "name": "OpenSnitch",
+    "description": "OpenSnitch firewall client for DankMaterialShell: bar icon with quick controls, a full window for stats, connections and rules, and a centered prompt when an application asks for network access. Replaces the Qt opensnitch-ui; the opensnitchd daemon is untouched.",
+    "version": "1.0.0",
+    "author": "neo",
+    "type": "composite",
+    "capabilities": ["daemon", "dankbar-widget", "firewall"],
+    "icon": "shield",
+    "components": {
+        "daemon": "./OpenSnitchDaemon.qml",
+        "widget": "./OpenSnitchWidget.qml"
+    },
+    "settings": "./OpenSnitchSettings.qml",
+    "startupCheck": "./OpenSnitchStartupCheck.qml",
+    "requires_dms": ">=1.6.0",
+    "permissions": [
+        "settings_read",
+        "settings_write",
+        "process"
+    ]
+}

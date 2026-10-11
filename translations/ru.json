@@ -1,0 +1,341 @@
+{
+  "1 hour": {
+    "1 hour": "1 час"
+  },
+  "12 hours": {
+    "12 hours": "12 часов"
+  },
+  "15 minutes": {
+    "15 minutes": "15 минут"
+  },
+  "30 minutes": {
+    "30 minutes": "30 минут"
+  },
+  "30 seconds": {
+    "30 seconds": "30 секунд"
+  },
+  "5 minutes": {
+    "5 minutes": "5 минут"
+  },
+  "A disabled rule is kept but ignored.": {
+    "A disabled rule is kept but ignored.": "Отключённое правило сохраняется, но не применяется."
+  },
+  "Action": {
+    "Action": "Действие"
+  },
+  "Advanced": {
+    "Advanced": "Дополнительно"
+  },
+  "All": {
+    "All": "Все"
+  },
+  "Allow": {
+    "Allow": "Разрешить"
+  },
+  "Allowed": {
+    "Allowed": "Разрешённые"
+  },
+  "Also match, by default": {
+    "Also match, by default": "Также учитывать по умолчанию"
+  },
+  "Answer after": {
+    "Answer after": "Ответить через"
+  },
+  "Apply to connections": {
+    "Apply to connections": "Применить к соединениям"
+  },
+  "Ask on new connections": {
+    "Ask on new connections": "Спрашивать о новых соединениях"
+  },
+  "Ask when an application connects": {
+    "Ask when an application connects": "Спрашивать при подключении приложения"
+  },
+  "Authorization prompt": {
+    "Authorization prompt": "Запрос разрешения"
+  },
+  "Back to latest": {
+    "Back to latest": "К последним"
+  },
+  "Backend not running": {
+    "Backend not running": "Служба не запущена"
+  },
+  "Blocked": {
+    "Blocked": "Заблокированные"
+  },
+  "Cancel": {
+    "Cancel": "Отмена"
+  },
+  "Checksum": {
+    "Checksum": "Контрольная сумма"
+  },
+  "Checksum mismatch": {
+    "Checksum mismatch": "Контрольная сумма не совпадает"
+  },
+  "Checksum updated for %1": {
+    "Checksum updated for %1": "Контрольная сумма для %1 обновлена"
+  },
+  "Clear all": {
+    "Clear all": "Очистить всё"
+  },
+  "Command line": {
+    "Command line": "Командная строка"
+  },
+  "Comparison": {
+    "Comparison": "Сравнение"
+  },
+  "Connections": {
+    "Connections": "Соединения"
+  },
+  "Connections this rule matches stay out of the connection list.": {
+    "Connections this rule matches stay out of the connection list.": "Соединения, соответствующие этому правилу, не отображаются в списке."
+  },
+  "DNS answers": {
+    "DNS answers": "Ответы DNS"
+  },
+  "Daemon (opensnitchd)": {
+    "Daemon (opensnitchd)": "Демон (opensnitchd)"
+  },
+  "Daemon not connected": {
+    "Daemon not connected": "Демон не подключён"
+  },
+  "Default duration": {
+    "Default duration": "Длительность по умолчанию"
+  },
+  "Default policy": {
+    "Default policy": "Политика по умолчанию"
+  },
+  "Default target": {
+    "Default target": "Цель по умолчанию"
+  },
+  "Deny": {
+    "Deny": "Запретить"
+  },
+  "Description": {
+    "Description": "Описание"
+  },
+  "Dest. IP": {
+    "Dest. IP": "IP назначения"
+  },
+  "Destination": {
+    "Destination": "Назначение"
+  },
+  "Destination IP": {
+    "Destination IP": "IP назначения"
+  },
+  "Destination IP matches": {
+    "Destination IP matches": "Совпадение IP назначения"
+  },
+  "Do not log matches": {
+    "Do not log matches": "Не записывать совпадения"
+  },
+  "Drop": {
+    "Drop": "Отбросить"
+  },
+  "Duration": {
+    "Duration": "Длительность"
+  },
+  "Edit rule": {
+    "Edit rule": "Изменить правило"
+  },
+  "Enable firewall": {
+    "Enable firewall": "Включить брандмауэр"
+  },
+  "Enabled": {
+    "Enabled": "Включено"
+  },
+  "Executable": {
+    "Executable": "Исполняемый файл"
+  },
+  "Expected %1 · Current %2": {
+    "Expected %1 · Current %2": "Ожидается %1 · Сейчас %2"
+  },
+  "Field": {
+    "Field": "Поле"
+  },
+  "Firewall": {
+    "Firewall": "Брандмауэр"
+  },
+  "Firewall backend": {
+    "Firewall backend": "Модуль брандмауэра"
+  },
+  "For": {
+    "For": "Срок"
+  },
+  "Incoming connections": {
+    "Incoming connections": "Входящие соединения"
+  },
+  "Intercept connections": {
+    "Intercept connections": "Перехватывать соединения"
+  },
+  "Intercept unknown processes": {
+    "Intercept unknown processes": "Перехватывать неизвестные процессы"
+  },
+  "Interception is off": {
+    "Interception is off": "Перехват отключён"
+  },
+  "Launched from": {
+    "Launched from": "Запущено из"
+  },
+  "Log level": {
+    "Log level": "Уровень журнала"
+  },
+  "Lost the connection to the OpenSnitch backend": {
+    "Lost the connection to the OpenSnitch backend": "Соединение со службой OpenSnitch потеряно."
+  },
+  "Match": {
+    "Match": "Совпадение"
+  },
+  "Name": {
+    "Name": "Имя"
+  },
+  "New rule": {
+    "New rule": "Новое правило"
+  },
+  "No connections yet": {
+    "No connections yet": "Пока нет соединений"
+  },
+  "Nothing yet": {
+    "Nothing yet": "Пока ничего"
+  },
+  "Open OpenSnitch": {
+    "Open OpenSnitch": "Открыть OpenSnitch"
+  },
+  "Outgoing connection": {
+    "Outgoing connection": "Исходящее соединение"
+  },
+  "Outgoing connections": {
+    "Outgoing connections": "Исходящие соединения"
+  },
+  "Overview": {
+    "Overview": "Обзор"
+  },
+  "Overview statistics": {
+    "Overview statistics": "Статистика обзора"
+  },
+  "Port": {
+    "Port": "Порт"
+  },
+  "Priority rule": {
+    "Priority rule": "Приоритетное правило"
+  },
+  "Process monitor": {
+    "Process monitor": "Монитор процессов"
+  },
+  "Protected": {
+    "Protected": "Защищено"
+  },
+  "Protecting this computer": {
+    "Protecting this computer": "Компьютер защищён"
+  },
+  "Protection": {
+    "Protection": "Защита"
+  },
+  "Queue bypass": {
+    "Queue bypass": "Обход очереди"
+  },
+  "Reject": {
+    "Reject": "Отклонить"
+  },
+  "Reset overview stats": {
+    "Reset overview stats": "Сбросить статистику обзора"
+  },
+  "Reset stats": {
+    "Reset stats": "Сбросить статистику"
+  },
+  "Rule hits": {
+    "Rule hits": "Срабатывания правил"
+  },
+  "Rules": {
+    "Rules": "Правила"
+  },
+  "Save": {
+    "Save": "Сохранить"
+  },
+  "Search": {
+    "Search": "Поиск"
+  },
+  "Search rules": {
+    "Search rules": "Поиск правил"
+  },
+  "Settings": {
+    "Settings": "Настройки"
+  },
+  "Show advanced options": {
+    "Show advanced options": "Показывать расширенные параметры"
+  },
+  "Source": {
+    "Source": "Источник"
+  },
+  "Starting…": {
+    "Starting…": "Запуск…"
+  },
+  "System firewall": {
+    "System firewall": "Системный брандмауэр"
+  },
+  "Top addresses": {
+    "Top addresses": "Частые адреса"
+  },
+  "Top applications": {
+    "Top applications": "Частые приложения"
+  },
+  "Top hosts": {
+    "Top hosts": "Частые узлы"
+  },
+  "Top ports": {
+    "Top ports": "Частые порты"
+  },
+  "Update rule": {
+    "Update rule": "Обновить правило"
+  },
+  "User": {
+    "User": "Пользователь"
+  },
+  "User ID": {
+    "User ID": "ID пользователя"
+  },
+  "Value": {
+    "Value": "Значение"
+  },
+  "Verify checksums in rules": {
+    "Verify checksums in rules": "Проверять контрольные суммы в правилах"
+  },
+  "When nobody answers": {
+    "When nobody answers": "Если никто не ответит"
+  },
+  "Working dir": {
+    "Working dir": "Рабочий каталог"
+  },
+  "equals": {
+    "equals": "равно"
+  },
+  "forever": {
+    "forever": "бессрочно"
+  },
+  "from %1": {
+    "from %1": "от %1"
+  },
+  "from user %1": {
+    "from user %1": "от пользователя %1"
+  },
+  "in network (CIDR)": {
+    "in network (CIDR)": "в сети (CIDR)"
+  },
+  "no data yet": {
+    "no data yet": "пока нет данных"
+  },
+  "once": {
+    "once": "один раз"
+  },
+  "regular expression": {
+    "regular expression": "регулярное выражение"
+  },
+  "to %1": {
+    "to %1": "к %1"
+  },
+  "to port %1": {
+    "to port %1": "на порт %1"
+  },
+  "until reboot": {
+    "until reboot": "до перезагрузки"
+  }
+}
