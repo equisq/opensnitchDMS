@@ -1,5 +1,8 @@
 # OpenSnitch for DankMaterialShell
 
+![Opensnitch dankbar popup screenshot](screenshots/dankbar_popup.png)
+![Opensnitch main window screenshot](screenshots/main_window.png)
+
 A replacement for the Qt `opensnitch-ui`, as a DMS plugin. **The `opensnitchd`
 daemon is untouched**: it keeps connecting to a UI over gRPC, and this plugin is
 that UI.
