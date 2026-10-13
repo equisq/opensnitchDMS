@@ -36,7 +36,7 @@ This project was created entirely by Claude Sonnet 5.5 and ChatGPT 6 Luna. It is
   is deliberately built locally; a prebuilt binary is not included.
 
 ## Install
-From DankLinux registry:
+From DankLinux registry (coming soon):
 - Install plugin
 - Run `~/.config/DankMaterialShell/plugins/opensnitch/build.sh`
 - Make sure the original OpenSnitch UI is not active
