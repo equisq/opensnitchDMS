@@ -30,7 +30,7 @@ This project was created entirely by Claude Sonnet 5.5 and ChatGPT 6 Luna. It is
 
 ## Requirements
 
-- DankMaterialShell 1.5.0 or newer (composite plugin support).
+- DankMaterialShell 1.6.0 or newer (composite plugin support).
 - The OpenSnitch daemon (`opensnitchd`) installed and running.
 - Go 1.25 or newer to build the small UI backend for your machine. The backend
   is deliberately built locally; a prebuilt binary is not included.
